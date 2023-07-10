@@ -16,6 +16,12 @@ a small mod for mc-forge
 ### expbank:exp_packer（经验罐装机）
 当玩家手持空的【水瓶】并右键点击罐装机，会按水瓶的数量x100扣除身上的经验，并且弹出相应数量的经验药水
 
+#### recipe for expbank:exp_packer（经验罐装机配方）
+四角放生鲑鱼，中间放一条河豚，剩下格子用熟鲑鱼补满即可
+- 生鲑鱼 熟鲑鱼 生鲑鱼
+- 熟鲑鱼 河豚 熟鲑鱼
+- 生鲑鱼 熟鲑 鱼生鲑鱼
+
 ## versions
 - MC: 1.20.1
 - forge: 47.0.45

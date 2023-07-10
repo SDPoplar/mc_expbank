@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": { "item": "minecraft:salmon" },
+    "b": { "item": "minecraft:cooked_salmon" },
+    "c": { "item": "minecraft:pufferfish" }
+  },
+  "result": {
+    "item": "expbank:exp_packer_item",
+    "count": 1
+  }
+}
