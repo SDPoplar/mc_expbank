@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "expbank:block/exp_packer" }
+  }
+}

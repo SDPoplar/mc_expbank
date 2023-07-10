@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "expbank:block/exp_packer/top",
+    "down": "expbank:block/exp_packer/bottom",
+    "east": "expbank:block/exp_packer/common",
+    "west": "expbank:block/exp_packer/common",
+    "north": "expbank:block/exp_packer/common",
+    "south": "expbank:block/exp_packer/common"
+  }
+}
